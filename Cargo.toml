@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_animation"
+version = "0.1.0"
+edition = "2021"
+description = "Animation engine integration — keyframes, timelines, rigging, and render pipeline for SigmaOS"
+
+[lib]
+name = "sigmaos_craft_animation"
+path = "src/lib.rs"

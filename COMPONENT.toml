@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-craft-animation"
+tier = 5
+stability = "scaffold"
+language = "rust"
+description = "Animation engine integration — keyframes, timelines, rigging, and render pipeline for SigmaOS"
+upstream = []
+
+[contract]
+provides = ["animation-timeline", "keyframe-engine"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"
