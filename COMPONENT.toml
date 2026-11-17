@@ -3,7 +3,7 @@ name = "SigmaOS-craft-animation"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "Animation engine integration — keyframes, timelines, rigging, and render pipeline for SigmaOS"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
